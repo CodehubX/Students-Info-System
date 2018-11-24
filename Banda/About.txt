@@ -1,0 +1,23 @@
+                ---------------------------------------------------------------
+                |                     *PMSSB Softwares*                       |
+                |                                                             |
+                ---------------------------------------------------------------
+*Copyright@PMSSB
+*www.facebook.com/PMSSB-softwares
+---------------------------------------------------------------------------------------------
+*Software details-
+ 
+ Application name                 - SSB Student information management system
+ Fornt end                        - Java
+ IDE used to develop the front end- Netbeans IDE
+ Back end                         - MySQL
+ GUI used to develop the back end - Navicat premium
+*********************************************************************************************
+                       This application is for educational purposes only!
+*********************************************************************************************
+*developed by-
+
+ Sanomika Samindi Bandara(Group leader)
+ Jayana
+ Panduka
+ Viraj 
